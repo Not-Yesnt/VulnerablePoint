@@ -2,9 +2,7 @@
 
 Y3550R's Entry Point script.
 
-Been developed for multiple months to break Entry Point in almost every way you can imagine.
-
-[Discord Server](https://discord.gg/BsPN2ZE5vM)
+Discontinued due to no longer exploiting.
 
 ## Usage
 
